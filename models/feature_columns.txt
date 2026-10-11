@@ -1,0 +1,10 @@
+AC_POWER
+AMBIENT_TEMPERATURE
+MODULE_TEMPERATURE
+IRRADIATION
+solar_elevation
+solar_azimuth
+hour_sin
+hour_cos
+day_of_year_sin
+day_of_year_cos
